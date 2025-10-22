@@ -1,9 +1,10 @@
 <?php 
     
 interface Sonido{
-    public function hablar();
+    public function hablar():string;
     
 }
+
 
 ?>
 
